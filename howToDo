@@ -1,0 +1,15 @@
+1 criar container principal 100vh
+2 criar dois mini containers
+3 leftContainer - 40%
+3 RightContainer - 30%
+3 display flex colunm for 
+RightContainer - 30%
+
+4 criar h1 para data.city
+5 criar p para concatenar a rua,
+bairro e estado
+
+6 criar p para indicar a data.fonte
+
+7 criar input para cep
+8 criar botão Buscar cep9 estilizar
