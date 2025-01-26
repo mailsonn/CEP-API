@@ -1,0 +1,42 @@
+
+@media (max-width:440px) {
+
+     .top{
+        visibility:hidden;
+    }
+ 
+    .super-container{
+        display: flex;
+        flex-direction: column;
+        gap: none;
+    }
+
+    .leftContainer{
+        flex:none;
+        height: 10rem;
+        background-image: url(../images/gps.jpg);
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+    }
+
+    .rightContainer{
+     
+    }
+    #city, .source, .info{
+        text-align: center;
+    }
+
+    #cep{
+        margin: 0;
+        margin-left: 2rem;
+        margin-top: 2rem;
+        width: 79%;
+    }
+    #buscarCep{
+        margin: 0;
+        margin-left: 2rem;
+        margin-bottom: 10rem;
+
+    }
+}
